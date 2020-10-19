@@ -1,6 +1,8 @@
 ### Hi there 👋
-I’m Luís Rocha, a software engineer based in Porto, Portugal.
-I got my bachelor's at ISEP (Insituto Superior de Engenharia do Porto). I started working as a full-stack developer but latelly I've been working as a front-end. I'm a netflix affictionado, I love movies and travelling. I'm a team player and always looking for a problem to solve.
+I’m Luís Rocha, a software engineer based in Porto, Portugal. 
+
+I got my bachelor's at ISEP (Insituto Superior de Engenharia do Porto). I started working as a full-stack developer but latelly I've been working as a front-end. I'm a team player and always looking for a problem to solve.
+:tv: I'm a netflix affictionado, :movie_camera: I love movies, and :airplane: travelling.
 
 This are a few of my most used technologies:
 - **Languages** -  TypeScript, JavaScript, PHP, HTML5, CSS3, Python
