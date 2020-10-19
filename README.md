@@ -9,7 +9,7 @@ This are a few of my most used technologies:
 - **Tools** - Node.js, Docker, CircleCI, SASS, GitHub Actions, Git
 - **Testing** - I'm familiar with Unit, integration , and end-to-end testing and I've used Jest and Cypress.
 
-## Reach out 
+### Reach out 
 
 - **:email: Email**: [luis.cdrocha@hotmail.com](mailto:luis.cdrocha@hotmail.com?subject=GitHub)
 - **:bird:Twitter**: [@luiscdrocha](https://twitter.com/luiscdrocha/)
