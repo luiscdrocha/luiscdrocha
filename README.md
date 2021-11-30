@@ -10,10 +10,6 @@ I got my bachelor's at ISEP (Insituto Superior de Engenharia do Porto). I starte
 - **Tools** - Node.js, Docker, CircleCI, SASS, GitHub Actions, Git
 - **Testing** - I'm familiar with Unit, integration , and end-to-end testing and I've used Jest and Cypress.
 
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26" height="26"/> </a> 
-<a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="26" height="26"/> </a>
-
 ### Reach out 
 <p align="left">
 <a href="mailto:luis.cdrocha@hotmail.com?subject=GitHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="luiscdrocha" height="30" width="40" /></a>
